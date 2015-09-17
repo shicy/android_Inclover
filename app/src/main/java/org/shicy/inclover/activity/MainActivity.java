@@ -13,6 +13,7 @@ import android.widget.Toast;
 import org.shicy.commons.activity.BaseActionBarActivity;
 import org.shicy.inclover.R;
 import org.shicy.inclover.main.MainItemAdapter;
+import org.shicy.inclover.secret.SecretActivity;
 
 import java.util.ArrayList;
 import java.util.HashMap;

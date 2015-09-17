@@ -21,8 +21,13 @@
             android:label="@string/title_activity_main" >
         </activity>
         <activity
-            android:name=".activity.SecretActivity"
+            android:name=".secret.SecretActivity"
             android:label="@string/title_activity_secret" >
+        </activity>
+        <activity
+            android:name=".secret.SecretHomeActivity"
+            android:label="@string/title_activity_secret">
+
         </activity>
     </application>
 

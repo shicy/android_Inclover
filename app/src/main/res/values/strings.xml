@@ -6,8 +6,10 @@
     <string name="action_settings">Settings</string>
 
     <string name="title_activity_main">MainActivity</string>
-    <string name="title_activity_secret">SecretActivity</string>
+    <string name="title_activity_secret">我的密保</string>
 
     <string name="view_secret_main_title">请输入口令</string>
+    <string name="view_secret_main_btn_cancel">C</string>
+    <string name="view_secret_main_btn_ok">√</string>
 
 </resources>
