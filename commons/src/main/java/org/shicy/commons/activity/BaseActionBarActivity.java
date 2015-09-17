@@ -31,4 +31,10 @@ public class BaseActionBarActivity extends ActionBarActivity {
         actionBar.setIcon(R.drawable.ic_user_def);
     }
 
+    protected void initActionBarWithTitle(ActionBar actionBar) {
+        actionBar.setDisplayShowTitleEnabled(true);
+        actionBar.setDisplayShowHomeEnabled(false);
+        actionBar.setDisplayHomeAsUpEnabled(true);
+    }
+
 }
